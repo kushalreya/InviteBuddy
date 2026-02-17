@@ -1,4 +1,4 @@
-# 🎉 Invitation Manager App
+# 🎉 Invitation Manager App - InviteBuddy
 
 A modern Android application built with **Kotlin** and **Jetpack Compose** to manage invitations with elegant UI, smooth animations, and real-time event tracking.
 
@@ -19,9 +19,23 @@ It is designed as a scalable foundation for a full event management system.
 
 ---
 
-# 🎥 Demo Videos
+# 🎥 Demo
 
-## 📌 Main App Demo
+## 📸 Demo Snaps
+
+<h2 align="center">📸 App Snapshots</h2>
+
+<p align="center">
+  <img src="snapshots/1.png" width="260">
+  <img src="snapshots/2.png" width="260">
+</p>
+
+<p align="center">
+  <img src="snapshots/3.png" width="260">
+  <img src="snapshots/4.png" width="260">
+</p>
+
+## 📌 App Demo Video
 
 <b>YouTube link : </b> https://youtu.be/1QDIzo64lFg
 
