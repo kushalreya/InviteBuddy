@@ -37,7 +37,7 @@ Shows:
 
 ## 🎆 Confetti Animation Demo
 
-<confetti_video>
+https://github.com/user-attachments/assets/d5878407-df8a-4410-9e0e-17c34dad1275
 
 This video demonstrates:
 - Confetti celebration trigger
